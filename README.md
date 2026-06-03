@@ -1,6 +1,6 @@
 TEMP<br>
 <br>
-![ECHOXL Logo](/images/EchoXL_Logo.png) <br>
+![ECHOXL Logo](/images/ECHOXL_Logo.png) <br>
 The EchoXL is a custom designed 7 segment clock, using four 4" displays.<br>
 I purchased these displays from [Sc Electronics](http://sconline.com.tw/) in Guanghua Electronic Plaza, Taiwan. <br>
 They are labeled "LS4006SRWK" and the datasheet can be found [here](https://en.lenoo.com/product-detail-749164.html).<br>
